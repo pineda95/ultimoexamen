@@ -1,0 +1,6 @@
+Uncaught java.lang.Error exception in thread "main" in a method com.me.mygdxgame.MyGdxGame.<init>() with signature ()V
+Exception in thread "main" java.lang.Error: Unresolved compilation problem: 
+	fin cannot be resolved to a type
+
+	at com.me.mygdxgame.MyGdxGame.<init>(MyGdxGame.java:42) [file:/home/alumno/Pelotitas/my-gdx-game/bin/com/me/mygdxgame/MyGdxGame.class]
+	at com.me.mygdxgame.Main.main(Main.java:14) [file:/home/alumno/Pelotitas/my-gdx-game-desktop/bin/com/me/mygdxgame/Main.class]

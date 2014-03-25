@@ -1,0 +1,19 @@
+Uncaught com.badlogic.gdx.utils.GdxRuntimeException exception in thread "LWJGL Application" in a method com.badlogic.gdx.backends.lwjgl.LwjglApplication$1.run() with signature ()V
+Exception in thread "LWJGL Application" com.badlogic.gdx.utils.GdxRuntimeException: java.lang.Error: Unresolved compilation problems: 
+	sprites cannot be resolved
+	sprites cannot be resolved
+	sprites cannot be resolved
+	sprites cannot be resolved
+	Pelotitasm cannot be resolved
+
+	at com.badlogic.gdx.backends.lwjgl.LwjglApplication$1.run(LwjglApplication.java:121) [jar:file:/home/alumno/Pelotitas/my-gdx-game-desktop/libs/gdx-backend-lwjgl.jar!/com/badlogic/gdx/backends/lwjgl/LwjglApplication$1.class]
+Caused by: java.lang.Error: Unresolved compilation problems: 
+	sprites cannot be resolved
+	sprites cannot be resolved
+	sprites cannot be resolved
+	sprites cannot be resolved
+	Pelotitasm cannot be resolved
+
+	at com.me.mygdxgame.MyGdxGame.create(MyGdxGame.java:81) [file:/home/alumno/Pelotitas/my-gdx-game/bin/com/me/mygdxgame/MyGdxGame.class]
+	at com.badlogic.gdx.backends.lwjgl.LwjglApplication.mainLoop(LwjglApplication.java:137) [jar:file:/home/alumno/Pelotitas/my-gdx-game-desktop/libs/gdx-backend-lwjgl.jar!/com/badlogic/gdx/backends/lwjgl/LwjglApplication.class]
+	at com.badlogic.gdx.backends.lwjgl.LwjglApplication$1.run(LwjglApplication.java:115) [jar:file:/home/alumno/Pelotitas/my-gdx-game-desktop/libs/gdx-backend-lwjgl.jar!/com/badlogic/gdx/backends/lwjgl/LwjglApplication$1.class]

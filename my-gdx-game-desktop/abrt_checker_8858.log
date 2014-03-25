@@ -1,0 +1,6 @@
+Uncaught java.lang.NullPointerException exception in thread "main" in a method com.jcraft.jorbis.Comment.toString() with signature ()Ljava/lang/String;
+Exception in thread "main" java.lang.NullPointerException
+	at com.jcraft.jorbis.Comment.toString(Unknown Source) [jar:file:/home/alumno/Pelotitas/my-gdx-game-desktop/libs/gdx-backend-lwjgl.jar!/com/jcraft/jorbis/Comment.class]
+	at java.lang.String.valueOf(String.java:2854) [jar:file:/usr/lib/jvm/java-1.7.0-openjdk-1.7.0.60-2.4.4.1.fc20.x86_64/jre/lib/rt.jar!/java/lang/String.class]
+	at java.io.PrintStream.println(PrintStream.java:821) [jar:file:/usr/lib/jvm/java-1.7.0-openjdk-1.7.0.60-2.4.4.1.fc20.x86_64/jre/lib/rt.jar!/java/io/PrintStream.class]
+	at com.jcraft.jorbis.ChainingExample.main(Unknown Source) [jar:file:/home/alumno/Pelotitas/my-gdx-game-desktop/libs/gdx-backend-lwjgl.jar!/com/jcraft/jorbis/ChainingExample.class]
